@@ -8,3 +8,5 @@
 * Robin
 * Volcán Negro
 *Goku
+* Atom
+
